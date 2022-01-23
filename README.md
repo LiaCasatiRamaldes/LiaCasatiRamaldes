@@ -13,9 +13,10 @@
   <img align="center" alt="Lia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
-  <img src="https://discord.com/channels/@me/908328235392176148/934845774137810954.gif">
+  
 <div> <br><br>
     <a href = "mailto:liac.ramaldes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lia-casati-ramaldes-a0158b205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  <img src="https://discord.com/channels/@me/908328235392176148/934845774137810954.gif">
 </div>
