@@ -18,7 +18,5 @@
     <a href = "mailto:liac.ramaldes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lia-casati-ramaldes-a0158b205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <img src="https://discord.com/channels/@me/908328235392176148/934845774137810954.gif">
 </div>
   
-  ![Snake animation](https://github.com/LiaCasatiRamaldes/LiaCasatiRamaldes/blob/output/github-contribution-grid-snake.svg)
