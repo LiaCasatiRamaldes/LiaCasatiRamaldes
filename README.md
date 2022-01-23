@@ -20,3 +20,5 @@
  
   <img src="https://discord.com/channels/@me/908328235392176148/934845774137810954.gif">
 </div>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
